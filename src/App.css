@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+label {
+  margin-right: 10px;
+}
+
+select, input {
+  margin-bottom: 10px;
+}
+
+.product-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
